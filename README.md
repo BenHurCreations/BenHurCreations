@@ -7,6 +7,6 @@ Passion
 - 💞️ I’m looking to collaborate on ...
 
 Find me also in-
-![Gmail Badge](https://img.shields.io/badge/-yoavbenhur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoavbenhur@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-yoavbenhur-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoavbenhur@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Yoav_Ben_Hur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoav-ben-hur-9a333826/)](https://www.linkedin.com/in/yoav-ben-hur-9a333826/)
 
